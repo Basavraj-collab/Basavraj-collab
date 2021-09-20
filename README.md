@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Trainee at Accenture
 - 🌱 I’m currently learning Machine Learning / Big Data 
-- 👯 I’m looking to collaborate on Machine Learning related projects  / opportunities
+- 👯 I’m looking to collaborate on Machine Learning related projects  / job opportunities
 - 📫 How to reach me: [Linkedin - @Basavraj S Awatiger](https://www.linkedin.com/in/basavrajsawatiger-1756ba14b/)
 - 😄 Pronouns: He/His
 
