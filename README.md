@@ -15,7 +15,7 @@ My Personal Repository
 
 Skills :
 
-  1. Machine Learning : Linear Regression, SVM, Decision Trees / Random Forest, Logistic Regression
+  1. Machine Learning : Linear Regression, SVM, Random Forest, Logistic Regression
   2. Coding           : Python, Oracle SQL, Java, C, HTML/CSS
   3. Platforms        : Anaconda
  
