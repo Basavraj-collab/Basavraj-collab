@@ -1,8 +1,8 @@
 ### Hello, I'm Basavraj 👋
 
-- 🔭 I’m currently looking for opportunities in Data Science / ML domain
-- 🌱 I’m currently learning Machine Learning / Big Data 
-- 👯 I’m looking to collaborate on Machine Learning related projects  / job opportunities
+- 🔭 I’m currently looking for Product roles (mainly DATA related) 
+- 🌱 I’m currently learning & exploring Product space.
+- 👯 I’m looking to collaborate on Product related projects / case studies
 - 📫 How to reach me: [Linkedin - @Basavraj S Awatiger](https://www.linkedin.com/in/basavrajsawatiger-1756ba14b/)
 - 😄 Pronouns: He/His
 
