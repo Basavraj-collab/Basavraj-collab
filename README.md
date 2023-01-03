@@ -15,10 +15,11 @@ My Personal Repository
 
 Skills :
 
-  1. Machine Learning : Linear Regression, , Random Forest, Logistic Regression
-  2. Coding           : Python, Oracle SQL, NoSQL
-  3. Cloud            : AWS -S3, Glue
-  4. Platforms        : Jupyter Notebook
+  1. PM               : Product Analysis, Prioritization, Stakeholder Management 
+  2. Machine Learning : Linear Regression, Random Forest, Logistic Regression
+  3. Coding           : Python, Oracle SQL, NoSQL
+  4. Cloud            : AWS -S3, Glue
+  5. Platforms        : Jupyter Notebook
  
 Projects :
 
@@ -29,7 +30,7 @@ Projects :
 Other Interests : 
 
   1. Updating myself on Financial Markets / Stocks
-  2. Reading Data Science related blogs / new Technology trends
+  2. Reading Data Science / PM related blogs
   3. Writing fictional stories
 
 
