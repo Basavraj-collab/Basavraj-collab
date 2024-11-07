@@ -1,7 +1,7 @@
 ### Hello, I'm Basavraj 👋
 
-- 🔭 I’m currently looking for Product roles (mainly DATA related) 
-- 🌱 I’m currently learning & exploring Product space.
+- 🔭 I’m currently working as a Product Analyst at Revlitix
+- 🌱 I’m currently learning & exploring PM space in SAAS & Fintech
 - 👯 I’m looking to collaborate on Product related projects / case studies
 - 📫 How to reach me: [Linkedin - @Basavraj S Awatiger](https://www.linkedin.com/in/basavrajsawatiger-1756ba14b/)
 - 😄 Pronouns: He/His
